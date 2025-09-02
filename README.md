@@ -10,7 +10,7 @@ Based in Stockholm, Sweden, I'm currently pursuing a Python Developer Program at
 
 | **Backend**        | **Frontend & UI**     | **Tools & Platforms**               |
 |--------------------|------------------------|-------------------------------------|
-| Python, Django, Flask, REST API | HTML, CSS, JavaScript        | Git, GitHub, Docker, Azure, DB2, MySQL, MongoDB, NoSQL, Crystal Reports |
+| Python, Django, Flask, REST API | HTML, CSS, JavaScript        | GitHub, Docker, Azure, DB2, MySQL, MongoDB, NoSQL, Crystal Reports |
 
 ---
 
