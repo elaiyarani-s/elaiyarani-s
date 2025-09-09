@@ -20,7 +20,7 @@ Based in Stockholm, Sweden, I'm currently pursuing a Python Developer Program at
 *Aug 2025*  
 Explored data analysis and predictive modeling using Python. Cleaned and visualized the classic Titanic dataset, engineered features, and built machine learning models to predict passenger survival.
 
-### [MyPortfolio-Django](https://github.com/elaiyarani-s/MyPortfoli_Django)
+### [MyPortfolio-Django](https://github.com/elaiyarani-s/MyPortfolio_Django)
 *Aug 2025*  
 Built a portfolio web app using **Django**, showcasing my background, projects, and blog posts. Features user authentication, responsive design, and deploy-ready architecture.
 
