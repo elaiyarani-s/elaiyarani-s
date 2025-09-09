@@ -10,7 +10,7 @@ Based in Stockholm, Sweden, I'm currently pursuing a Python Developer Program at
 
 | **Backend**        | **Frontend & UI**     | **Tools & Platforms**               |
 |--------------------|------------------------|-------------------------------------|
-| Python, Django, Flask, REST API | HTML, CSS, JavaScript        | GitHub, Docker, Azure, DB2, MySQL, MongoDB, NoSQL, Crystal Reports |
+| Python, Django, REST API | HTML, CSS, JavaScript        | GitHub, Docker, MySQL, MongoDB |
 
 ---
 
@@ -32,7 +32,7 @@ A sleek static portfolio crafted in HTML/CSS/JavaScript — perfect for quick sh
 *Jul 2025*  
 A lightweight **Django, JavaScript-based** web radio interface. Implemented media controls, dynamic station lists, and a clean user interface.
 
-### [SkillSwap](https://github.com/elaiyarani-s/SkillSwap)
+### [SkillSwap](https://github.com/project-django-group5/Skillswap.git)
 *Jul 2025*  
 A Django-based **skill-sharing platform** where users can offer or request skills. Features include user authentication, skill listings, messaging, reviews/ratings, and category-based search — designed with Bootstrap 5 and responsive UI.
 
