@@ -24,10 +24,6 @@ Explored data analysis and predictive modeling using Python. Cleaned and visuali
 *Aug 2025*  
 Built a portfolio web app using **Django**, showcasing my background, projects, and blog posts. Features user authentication, responsive design, and deploy-ready architecture.
 
-### [MyPortfolio](https://github.com/elaiyarani-s/MyPortfolio)
-*Aug 2025*  
-A sleek static portfolio crafted in HTML/CSS/JavaScript — perfect for quick showcase of skills and projects.
-
 ### [REHA_radio](https://github.com/elaiyarani-s/REHA_radio)
 *Jul 2025*  
 A lightweight **Django, JavaScript-based** web radio interface. Implemented media controls, dynamic station lists, and a clean user interface.
@@ -35,6 +31,10 @@ A lightweight **Django, JavaScript-based** web radio interface. Implemented medi
 ### [SkillSwap](https://github.com/project-django-group5/Skillswap.git)
 *Jul 2025*  
 A Django-based **skill-sharing platform** where users can offer or request skills. Features include user authentication, skill listings, messaging, reviews/ratings, and category-based search — designed with Bootstrap 5 and responsive UI.
+
+### [MyPortfolio](https://github.com/elaiyarani-s/MyPortfolio)
+*Jun 2025*  
+A sleek static portfolio crafted in HTML/CSS/JavaScript — perfect for quick showcase of skills and projects.
 
 ---
 
